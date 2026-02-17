@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "ForestTime: A mobile platform for IUFRO-standardized time studies in mechanized forest operations"
+version: "5.0"
+date-released: "2025-01-15"
+license: GPL-3.0
+repository-code: "https://github.com/edacunac/ForestTime"
+authors:
+  - family-names: "Acuña"
+    given-names: "Eduardo"
+    affiliation: "Universidad de Concepción, Facultad de Ciencias Forestales"
+    email: "edacuna@udec.cl"
+  - family-names: "Cancino"
+    given-names: "Jorge"
+    affiliation: "Universidad de Concepción, Facultad de Ciencias Forestales"
+  - family-names: "Acuña"
+    given-names: "Cristóbal"
+    affiliation: "Universidad de Concepción, Facultad de Ingeniería Agrícola"
+keywords:
+  - time study
+  - forest operations
+  - IUFRO nomenclature
+  - Android application
+  - machine productivity
+  - R script generation
+preferred-citation:
+  type: article
+  title: "ForestTime: A mobile platform for IUFRO-standardized time studies in mechanized forest operations"
+  authors:
+    - family-names: "Acuña"
+      given-names: "Eduardo"
+    - family-names: "Cancino"
+      given-names: "Jorge"
+    - family-names: "Acuña"
+      given-names: "Cristóbal"
+  journal: "International Journal of Forest Engineering"
+  year: 2025
+  status: "submitted"
